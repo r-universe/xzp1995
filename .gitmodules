@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "UniIsoRegression"]
 	path = UniIsoRegression
 	url = https://github.com/xzp1995/uniisoregression
-	shallow = true
-	registered = true
